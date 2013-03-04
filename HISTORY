@@ -1,7 +1,7 @@
 1.0.0   2010-12-05
         First public release
 
-1.1.0b1 2011-02-24 
+1.1.0b1 2011-02-24
         Fix missing "--force" option in help (Greg Smith)
         Correct warning message for wal_keep_segments (Bas van Oostveen)
         Add Debian build/usage docs (Bas, Hannu Krosing, Cedric Villemain)
@@ -31,5 +31,6 @@
 1.1.0   2011-03-09
         Make options -U, -R and -p not mandatory (Jaime)
 
-1.1.1	2011-XX-XX
+1.1.1	2013-03-03
         Add --ignore-rsync-warning (Cédric)
+        Feature X
